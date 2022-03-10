@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="44">
+      <Unit0>
+        <Filename Value="jeu.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="173"/>
+        <CursorPos X="17" Y="209"/>
+        <UsageCount Value="81"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="unitaccueil.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="unitAccueil"/>
+        <EditorIndex Value="10"/>
+        <TopLine Value="66"/>
+        <CursorPos X="80" Y="77"/>
+        <UsageCount Value="81"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="pseudosexe.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="PseudoSexe"/>
+        <EditorIndex Value="14"/>
+        <TopLine Value="12"/>
+        <CursorPos X="125" Y="21"/>
+        <UsageCount Value="81"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="menubat.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="23"/>
+        <UsageCount Value="73"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="tour.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tour"/>
+        <EditorIndex Value="6"/>
+        <CursorPos Y="18"/>
+        <UsageCount Value="50"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="entrepot.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="8"/>
+        <TopLine Value="2"/>
+        <CursorPos X="36" Y="14"/>
+        <UsageCount Value="47"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="sac.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="238"/>
+        <CursorPos X="84" Y="218"/>
+        <UsageCount Value="40"/>
+        <Loaded Value="True"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="combat.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="4"/>
+        <CursorPos X="64" Y="8"/>
+        <UsageCount Value="30"/>
+        <Loaded Value="True"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="..\GestionEcran.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="10"/>
+        <CursorPos X="67" Y="182"/>
+        <UsageCount Value="15"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="..\unitn.pas"/>
+        <UnitName Value="unitN"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="9"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="..\accueil.lpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="50"/>
+        <CursorPos X="13" Y="71"/>
+        <UsageCount Value="9"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="unitpresentation.pas"/>
+        <UnitName Value="unitPresentation"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="15"/>
+        <CursorPos Y="41"/>
+        <UsageCount Value="37"/>
+        <Loaded Value="True"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\packages\amunits\examples\otherlibs\string.pas"/>
+        <UnitName Value="Stringtest"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="9"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="D:\AppData\Local\Temp\Rar$DIa10772.23341\systemePopulation.lpr"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="9"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="D:\AppData\Local\Temp\Rar$DIa1388.8219\procefunct.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="..\pag batiments\Code\systemeBatiment.lpr"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="11"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="..\pag batiments\Code\unit1.pas"/>
+        <UnitName Value="Unit1"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="9"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="..\pag batiments\Code\procefunct.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="503"/>
+        <CursorPos X="15" Y="515"/>
+        <UsageCount Value="10"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="D:\Downloads\Commerce (2).lpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="29"/>
+        <CursorPos X="9" Y="48"/>
+        <UsageCount Value="9"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="D:\Downloads\unitcommerce.pas"/>
+        <UnitName Value="UnitCommerce"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="41"/>
+        <UsageCount Value="9"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="D:\AppData\Local\Temp\Rar$DIa7292.46835\procefunct.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="9"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="D:\AppData\Local\Temp\Rar$DIa7292.49857\procefunct.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="9"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="procefunct.pas"/>
+        <EditorIndex Value="16"/>
+        <CursorPos X="40" Y="50"/>
+        <UsageCount Value="36"/>
+        <Loaded Value="True"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="Code\procefunct.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="9"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="GestionEcran.pas"/>
+        <EditorIndex Value="11"/>
+        <TopLine Value="27"/>
+        <CursorPos X="60" Y="129"/>
+        <UsageCount Value="27"/>
+        <Loaded Value="True"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="D:\Downloads\Commerce (3).lpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="29"/>
+        <UsageCount Value="9"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="D:\Downloads\unitcommerce (1).pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="9"/>
+      </Unit26>
+      <Unit27>
+        <Filename Value="ressource.pas"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="41" Y="56"/>
+        <UsageCount Value="33"/>
+        <Loaded Value="True"/>
+      </Unit27>
+      <Unit28>
+        <Filename Value="..\..\projet prof\Tutoriel\unitvariable.pas"/>
+        <UnitName Value="UnitVariable"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="10"/>
+        <CursorPos X="36" Y="37"/>
+        <UsageCount Value="12"/>
+      </Unit28>
+      <Unit29>
+        <Filename Value="unitsytemepop.pas"/>
+        <UnitName Value="unitSytemePop"/>
+        <EditorIndex Value="15"/>
+        <TopLine Value="57"/>
+        <CursorPos X="87" Y="78"/>
+        <UsageCount Value="30"/>
+        <Loaded Value="True"/>
+      </Unit29>
+      <Unit30>
+        <Filename Value="..\Boutique\Commerce.lpr"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="3" Y="9"/>
+        <UsageCount Value="9"/>
+      </Unit30>
+      <Unit31>
+        <Filename Value="..\Boutique\unitcommerce.pas"/>
+        <UnitName Value="UnitCommerce"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="20" Y="8"/>
+        <UsageCount Value="10"/>
+      </Unit31>
+      <Unit32>
+        <Filename Value="unitcommerce.pas"/>
+        <UnitName Value="UnitCommerce"/>
+        <EditorIndex Value="9"/>
+        <TopLine Value="54"/>
+        <CursorPos X="33" Y="9"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+      </Unit32>
+      <Unit33>
+        <Filename Value="D:\AppData\Local\Temp\Rar$DIa10024.34740\unitliste.pas"/>
+        <UnitName Value="unitListe"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="42"/>
+        <UsageCount Value="9"/>
+      </Unit33>
+      <Unit34>
+        <Filename Value="D:\Downloads\unitniveaudifficulte.pas"/>
+        <UnitName Value="unitNiveauDifficulte"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="24" Y="64"/>
+        <UsageCount Value="9"/>
+      </Unit34>
+      <Unit35>
+        <Filename Value="D:\Downloads\unitsoldats.pas"/>
+        <UnitName Value="unitSoldats"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="6"/>
+        <UsageCount Value="13"/>
+      </Unit35>
+      <Unit36>
+        <Filename Value="unitchantiernaval.pas"/>
+        <EditorIndex Value="12"/>
+        <TopLine Value="16"/>
+        <CursorPos X="29" Y="36"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit36>
+      <Unit37>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\rtl\objpas\objpas.pp"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="8" Y="35"/>
+        <UsageCount Value="9"/>
+      </Unit37>
+      <Unit38>
+        <Filename Value="..\..\..\sd\TP 5\triproc.pas"/>
+        <UnitName Value="Triproc"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="9"/>
+      </Unit38>
+      <Unit39>
+        <Filename Value="unitsoldats.pas"/>
+        <UnitName Value="unitSoldats"/>
+        <EditorIndex Value="7"/>
+        <CursorPos X="22" Y="17"/>
+        <UsageCount Value="14"/>
+        <Loaded Value="True"/>
+      </Unit39>
+      <Unit40>
+        <Filename Value="C:\Users\Mohamed\Downloads\eventimpromp.pas"/>
+        <UnitName Value="eventImpromp"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="11" Y="14"/>
+        <UsageCount Value="10"/>
+      </Unit40>
+      <Unit41>
+        <Filename Value="eventimpromp.pas"/>
+        <UnitName Value="eventImpromp"/>
+        <EditorIndex Value="13"/>
+        <CursorPos X="88" Y="70"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+      </Unit41>
+      <Unit42>
+        <Filename Value="..\..\projet prof\Tutoriel\unituft8.pas"/>
+        <UnitName Value="unitUFT8"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="4"/>
+        <UsageCount Value="10"/>
+      </Unit42>
+      <Unit43>
+        <Filename Value="informations.pas"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="43" Y="18"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit43>
+    </Units>
+    <JumpHistory Count="29" HistoryIndex="28">
+      <Position1>
+        <Filename Value="sac.pas"/>
+        <Caret Line="8" Column="117"/>
+      </Position1>
+      <Position2>
+        <Filename Value="sac.pas"/>
+        <Caret Line="277" Column="3" TopLine="261"/>
+      </Position2>
+      <Position3>
+        <Filename Value="jeu.lpr"/>
+        <Caret Line="84" Column="110" TopLine="64"/>
+      </Position3>
+      <Position4>
+        <Filename Value="sac.pas"/>
+        <Caret Line="294" Column="12" TopLine="263"/>
+      </Position4>
+      <Position5>
+        <Filename Value="jeu.lpr"/>
+        <Caret Line="192" Column="10" TopLine="166"/>
+      </Position5>
+      <Position6>
+        <Filename Value="jeu.lpr"/>
+        <Caret Line="198" Column="5" TopLine="56"/>
+      </Position6>
+      <Position7>
+        <Filename Value="GestionEcran.pas"/>
+        <Caret Line="23" Column="32" TopLine="8"/>
+      </Position7>
+      <Position8>
+        <Filename Value="combat.pas"/>
+        <Caret Line="25" Column="79"/>
+      </Position8>
+      <Position9>
+        <Filename Value="sac.pas"/>
+        <Caret Line="266" Column="4" TopLine="228"/>
+      </Position9>
+      <Position10>
+        <Filename Value="sac.pas"/>
+        <Caret Line="264" Column="5" TopLine="236"/>
+      </Position10>
+      <Position11>
+        <Filename Value="combat.pas"/>
+        <Caret Line="8" Column="47"/>
+      </Position11>
+      <Position12>
+        <Filename Value="sac.pas"/>
+        <Caret Line="300" Column="22" TopLine="277"/>
+      </Position12>
+      <Position13>
+        <Filename Value="sac.pas"/>
+        <Caret Line="305" Column="49" TopLine="284"/>
+      </Position13>
+      <Position14>
+        <Filename Value="sac.pas"/>
+        <Caret Line="294" Column="13" TopLine="279"/>
+      </Position14>
+      <Position15>
+        <Filename Value="sac.pas"/>
+        <Caret Line="296" Column="23" TopLine="282"/>
+      </Position15>
+      <Position16>
+        <Filename Value="sac.pas"/>
+        <Caret Line="307" Column="53" TopLine="282"/>
+      </Position16>
+      <Position17>
+        <Filename Value="jeu.lpr"/>
+        <Caret Line="191" Column="9" TopLine="166"/>
+      </Position17>
+      <Position18>
+        <Filename Value="sac.pas"/>
+        <Caret Line="272" TopLine="264"/>
+      </Position18>
+      <Position19>
+        <Filename Value="jeu.lpr"/>
+        <Caret Line="76" Column="16" TopLine="55"/>
+      </Position19>
+      <Position20>
+        <Filename Value="unitaccueil.pas"/>
+        <Caret Line="88" Column="26" TopLine="66"/>
+      </Position20>
+      <Position21>
+        <Filename Value="jeu.lpr"/>
+        <Caret Line="19" Column="6"/>
+      </Position21>
+      <Position22>
+        <Filename Value="combat.pas"/>
+        <Caret Line="19" Column="16" TopLine="4"/>
+      </Position22>
+      <Position23>
+        <Filename Value="unitpresentation.pas"/>
+        <Caret Line="29" Column="15" TopLine="15"/>
+      </Position23>
+      <Position24>
+        <Filename Value="jeu.lpr"/>
+        <Caret Line="51" Column="3" TopLine="23"/>
+      </Position24>
+      <Position25>
+        <Filename Value="unitaccueil.pas"/>
+        <Caret Line="70" Column="19" TopLine="45"/>
+      </Position25>
+      <Position26>
+        <Filename Value="unitaccueil.pas"/>
+        <Caret Line="12" Column="30" TopLine="10"/>
+      </Position26>
+      <Position27>
+        <Filename Value="unitaccueil.pas"/>
+        <Caret Line="114" Column="18" TopLine="102"/>
+      </Position27>
+      <Position28>
+        <Filename Value="unitaccueil.pas"/>
+        <Caret Line="120" Column="93" TopLine="106"/>
+      </Position28>
+      <Position29>
+        <Filename Value="combat.pas"/>
+        <Caret Line="25" Column="30" TopLine="17"/>
+      </Position29>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

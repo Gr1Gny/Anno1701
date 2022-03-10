@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.0.4\bin\x86_64-win64\fpc.exe" Date="1351329191"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq &quot;-FiD:\cours\algorithme\projet\version simple - Copie\lib\x86_64-win64&quot; &quot;-FuD:\cours\algorithme\projet\version simple - Copie\&quot; &quot;-FUD:\cours\algorithme\projet\version simple - Copie\lib\x86_64-win64\&quot; &quot;-FED:\cours\algorithme\projet\version simple - Copie\&quot; &quot;-oD:\cours\algorithme\projet\version simple - Copie\jeu.exe&quot; jeu.lpr"/>
+</CONFIG>
